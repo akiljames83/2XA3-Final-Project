@@ -4,7 +4,7 @@ extern rconf
 
 section .data
 
-array dd 0,0,0,0,0,0,0,0,0,0 ; Nine elements in the array, initalized 10 for edge case check with sort
+array dd 0,0,0,0,0,0,0,0,0,0 ; Nine elements in the array, initalized 10 for edge case check with sorting alg
 num_pegs dd 0;
 cur dd 0;
 next dd 0;
